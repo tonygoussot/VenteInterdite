@@ -33,6 +33,7 @@ They will need to cooperate to :
 *   Secure a few zones
 *   Revive their deads
 *   Have at least one Faction ruling the place
+*   Repair the ship's Tractor Beam
 
 Once they are effectively farming, people will stop and people stop dying from hunger (build a few farms). Once they are able to feed and heal from radiations and injuries (hunters and farming gather resources required to heal people and revive them, miners and crafters build the tools and weapons required by jobs ) which means people have specialized in those fields (Hunting, Farming, Mining, Healing, Crafting), the burgeoning society is able to reach the next step.
 
@@ -42,7 +43,7 @@ During Phase B, players will establish a society
 Reaching the Pilot command to gain control of the ship which is currently orbiting a star.
 
 # Game Mechanics
-### Skill Sets
+## Skill Sets
 Upon action, players will gain experience points. Those points can be gained in the following skills 
 
 *   Aim
@@ -61,7 +62,7 @@ Upon action, players will gain experience points. Those points can be gained in 
 
 Each level gain in those fields will enable players to acquire specific competences in each skill tree.
 
-### Vital Constants
+## Vital Constants
 
 *   Health & Wounds
 *   Irradiation
@@ -74,7 +75,7 @@ Healing Health, Wounds or Irradiation requires different set of skills.
 
 Players can also lose limbs. Those will have to be replaced by Bionic limbs and implanted by qualified Medics.
 
-### Levels of action
+## Levels of action
 
 Individual > Group > Faction > Society > Spaceship
 
@@ -84,12 +85,39 @@ Individuals and Groups can fight.
 Factions can rule, levy taxes, establish exchanges, rebel against societies.
 Societies can declare war, make law, enforce laws.
 A Society ruling the Spaceship can lead it accross the stars.
-### Economy
+## Economy
 
 The Economy is entirely Player Based.
-At first all will depend on bartering. Players will need to define their own currency. Whether it is crops, mineral or whatever they which to use. In later phases, they'll be able to use a cryptocurrency if they wish.
+At first all will depend on bartering. Players will need to define their own currency. Whether it is crops, mineral or whatever they which to use. In later phases, they'll be able to use an in-game cryptocurrency if they wish.
 
-### Buildings
-### Mining
-### Crafting
-### Combat Mechanics
+## Buildings
+
+#### Civilians
+*   Cryosleep Quarters
+
+#### Crafting
+#### Farming
+*   Cropfields (different kind of crops)
+*   Farm (To operate crops)
+
+#### Excavation
+#### Military
+* Combat Simulators
+   
+
+## Mining
+
+At first, players will be able to mine the ressources already available in Inferno. Once the ship's
+tractor beam is repaired, the ship will harvest incoming asteroids and comets and fill inferno with them.
+The quality of those items will vary, and their composition will be random. Water intakes will also depend on the capacity of the ship to gather water from comets.
+All mining will first occur in Inferno. (Sounds of the functionning harvester)
+## Crafting
+## Combat
+
+## Ship
+The ship is composed of 3 layers, from the top to the bottom 
+*   Paradisio - The Biome, for crops and natural earthlike zones.
+*   Purgatorio - The decks, habitats and quarters, Industrial Machinery, Commercial zones... Basically the City.
+*   Inferno - Tractor Beam, The Ships Atomic Core, The Landing vessels, Mineral Resources.
+
+## Outside
