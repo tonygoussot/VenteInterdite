@@ -42,7 +42,7 @@ During Phase B, players will establish a society
 Reaching the Pilot command to gain control of the ship which is currently orbiting a star.
 
 # Detailed Mechanics
-### Skills Trees
+### Skill Sets
 Upon action, players will gain experience points. Those points can be gained in the following skills 
 
 *   Aim
@@ -50,6 +50,7 @@ Upon action, players will gain experience points. Those points can be gained in 
 *   Charisma
 *   Closed Combat
 *   Crafting
+*   Dexterity
 *   Farming
 *   General
 *   Medic
@@ -57,3 +58,18 @@ Upon action, players will gain experience points. Those points can be gained in 
 *   Serendipity
 
 Each level gain in those fields will enable players to acquire specific competences in each skill tree.
+
+### Vital Constants
+
+Health
+Wounds
+Irradiation
+
+If Health falls to 0 OR Wounds maxes OR Irradiation maxes, player dies.
+
+Irradiation acts like a DOT (Damage over time) ans slowly kills the player by creating wounds and random conditions (Bleeding, organs malfunctioning). The more irradiated he is, the more the player is exposed to random body failures.
+
+Healing Health, Wounds or Irradiation requires different set of skills.
+
+Players can also lose limbs. Those will have to be replaced by Bionic limbs and implanted by qualified Medics.
+
