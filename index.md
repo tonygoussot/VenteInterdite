@@ -47,9 +47,11 @@ Upon action, players will gain experience points. Those points can be gained in 
 
 *   Aim
 *   Constitution
+*   Cooking
 *   Charisma
 *   Closed Combat
 *   Crafting
+*   Medical-Engineering
 *   Dexterity
 *   Farming
 *   General
@@ -86,3 +88,8 @@ A Society ruling the Spaceship can lead it accross the stars.
 
 The Economy is entirely Player Based.
 At first all will depend on bartering. Players will need to define their own currency. Whether it is crops, mineral or whatever they which to use. In later phases, they'll be able to use a cryptocurrency if they wish.
+
+### Buildings
+### Mining
+### Crafting
+### Combat Mechanics
