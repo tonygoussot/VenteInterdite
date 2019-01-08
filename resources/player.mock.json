@@ -1,0 +1,62 @@
+{
+    "name": "string",
+    "vitals": {
+        "health": "number",
+        "wounds": "number",
+        "irradtiation": "number"
+    },
+    "skills": {
+        "Aim": {
+            "level": "number",
+            "experience": "number"
+        },
+        "Constitution": {
+            "level": "number",
+            "experience": "number"
+        },
+        "Cooking": {
+            "level": "number",
+            "experience": "number"
+        },
+        "Charisma": {
+            "level": "number",
+            "experience": "number"
+        },
+        "Closed": {
+            "level": "number",
+            "experience": "number"
+        },
+        "Crafting": {
+            "level": "number",
+            "experience": "number"
+        },
+        "Medical": {
+            "level": "number",
+            "experience": "number"
+        },
+        "Dexterity": {
+            "level": "number",
+            "experience": "number"
+        },
+        "Farming": {
+            "level": "number",
+            "experience": "number"
+        },
+        "General": {
+            "level": "number",
+            "experience": "number"
+        },
+        "Medic": {
+            "level": "number",
+            "experience": "number"
+        },
+        "Mining": {
+            "level": "number",
+            "experience": "number"
+        },
+        "Serendipity": {
+            "level": "number",
+            "experience": "number"
+        }
+    }
+}
