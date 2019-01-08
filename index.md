@@ -41,7 +41,7 @@ Once they are effectively farming, people will stop and people stop dying from h
 During Phase B, players will establish a society
 Reaching the Pilot command to gain control of the ship which is currently orbiting a star.
 
-# Detailed Mechanics
+# Game Mechanics
 ### Skill Sets
 Upon action, players will gain experience points. Those points can be gained in the following skills 
 
@@ -61,9 +61,8 @@ Each level gain in those fields will enable players to acquire specific competen
 
 ### Vital Constants
 
-Health
-Wounds
-Irradiation
+*   Health & Wounds
+*   Irradiation
 
 If Health falls to 0 OR Wounds maxes OR Irradiation maxes, player dies.
 
@@ -73,3 +72,17 @@ Healing Health, Wounds or Irradiation requires different set of skills.
 
 Players can also lose limbs. Those will have to be replaced by Bionic limbs and implanted by qualified Medics.
 
+### Levels of action
+
+Individual > Group > Faction > Society > Spaceship
+
+Each level of action permits different actions.
+
+Individuals and Groups can fight.
+Factions can rule, levy taxes, establish exchanges, rebel against societies.
+Societies can declare war, make law, enforce laws.
+A Society ruling the Spaceship can lead it accross the stars.
+### Economy
+
+The Economy is entirely Player Based.
+At first all will depend on bartering. Players will need to define their own currency. Whether it is crops, mineral or whatever they which to use. In later phases, they'll be able to use a cryptocurrency if they wish.
