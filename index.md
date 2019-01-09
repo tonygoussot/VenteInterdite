@@ -10,7 +10,7 @@ The games aims to play at different levels, from individuals actions to collecti
 
 ### Death
 
-This game is hard. Unthough actions are heavily punished by death and cripplings. Death plays an important role. In early stages, players will die easily, as death is semi-permanent, they will have to create new citizens each time until they develop revival technologies. During the first phase, people will be asked to create a self-sufficient community and be able to avoid perm-death by healing and reviving.
+This game is hard. Unthought actions are heavily punished by death and cripplings. Death plays an important role. In early stages, players will die easily, as death is semi-permanent, they will have to create new citizens each time until they develop revival technologies. During the first phase, people will be asked to create a self-sufficient community and be able to avoid perm-death by healing and reviving.
 
 # Phases
 ## Phase A
