@@ -67,6 +67,7 @@ Each level gain in those fields will enable players to acquire specific competen
 
 *   Health & Wounds
 *   Irradiation
+*   Temperature
 
 If Health falls to 0 OR Wounds maxes OR Irradiation maxes, player dies.
 
@@ -120,6 +121,12 @@ At first all will depend on bartering. Players will need to define their own cur
 *   Cryosleep Quarters
 
 #### Crafting
+*   Refinery
+
+#### Energy
+*   Nuclear Plant
+*   Solar Panels
+
 #### Farming
 *   Cropfields (different kind of crops)
 *   Farm (To operate crops)
@@ -130,7 +137,6 @@ At first all will depend on bartering. Players will need to define their own cur
 #### Military
 *   Combat Simulators
 *   Auto Shooting Tower
-   
 
 ## Mining
 
@@ -140,15 +146,32 @@ The quality of those items will vary, and their composition will be random. Wate
 All mining will first occur in Inferno. (Sounds of the functionning harvesters and core overwhelming the zone). Later on, players might be able to go down on some planets to gather resources directly from there.
 ## Crafting
 
-Crafted items quality will depend on 1. 40% to 50% Skills, 2. 40% Intakes elements quality 3. 20% to 10% a Random Factor.
+Crafted items quality will depend on 1. 40% Skills, 2. 40% Intakes elements quality 3. 20% a Random Factor.
 ## Items
-```
-    Transponder (to signal people's presence outside of the ship)
-    Hand Excavator
-    Voting terminal
-```
+
+*Citizenship*
+*   Transponder (to signal people's presence outside of the ship)
+*   ID Card (With Unique Identifier)
+*   Personal Communication Device (to chat with other players, alias PCD)
+*   Voting Chip (Inside PCD)
+
+*Mining & Crafting*
+*   Hand Excavator
+
+*Clothing*
+*   Tracksuit (Beginner clothing)
+
+*Medic*
+*   Bandages
+*   First Aid Kit
+
+*Weapons*
+*   Truncheon | Club
+
 ## Combat
 
+### Loots
+*   Animals drop meat, seeds, components, blueprints
 ## Ship
 The ship is composed of 3 layers, from the top to the bottom 
 *   Paradisio - The Biome, for crops and natural earthlike zones.
