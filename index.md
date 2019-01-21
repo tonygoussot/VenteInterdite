@@ -39,6 +39,9 @@ They will need to cooperate to :
 
 Once they are effectively farming, people will stop and people stop dying from hunger (build a few farms). Once they are able to feed and heal from radiations and injuries (hunters and farming gather resources required to heal people and revive them, miners and crafters build the tools and weapons required by jobs ) which means people have specialized in those fields (Hunting, Farming, Mining, Healing, Crafting), the burgeoning society is able to reach the next step.
 
+Milestones are visible for all users through UI
+Milestones are goals required for all the server to get through the next phase. 
+
 ## Phase B
 
 During Phase B, players will establish a society

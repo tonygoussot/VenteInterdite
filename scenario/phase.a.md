@@ -28,23 +28,23 @@ Talking to another incoming colonist "
 > - I don't think so. If we'd had technical issues with our cryo-beds in our quarters only, other colonists would have activated the emergency waking procedure. I guess other quarters were locked in as well. Let's try to reach them"
 >
 
-*Suddenly, the main entrance door started to rumble. Sounds of hits resonated. Its seemed like something was trying to break into the room*
+*Suddenly, the main entrance door started to rumble. Sounds of hits resonated. Its seemed like something is trying to break into the room*
 
-This quarters have 100 colonists capacity. I'm quite sure what ever is trying to come in isn't friendly. We should get ready for combat.
+This quarters have 100 colonists capacity. I'm quite sure whatever is trying to come in isn't friendly. We should get ready for combat.
 
 > - People, get ready for a fight there. Whatever is coming in is coming for us. Does anybody have weapons ?
 > - Here, there are clubs and truncheons inside that box
 
 > *The box contains truncheons for 3/4 of the people inside the cryo-quarters as well as bandages to help survive through the first waves of attacks*
 
-We all started to grab clubs when the door crumbled. Fierce Dog like creatures jumped right at us. They were eager to kill. We could sense it. I saw two colonist get knocked out in front of me, they collpased on the ground, and the doglings started eating them. Whatever those creatures were, they weren't the dogs we took with us in for our journey.
-One of them tried to grab my feet, I hit back with all my weak strength. How lucky the cryo-sleep didn't completely malfunction and preserved my some of my muscles.
+We all started to grab clubs when the door crumbled. Fierce Dog like creatures jumped right at us. They were eager to kill. We could sense it. I saw two colonist get knocked out in front of me, they collpased on the ground, and the doglings started eating them. Whatever those hellish creatures were, they weren't the dogs we took with us in for our journey.
+One of them tried to grab my feet, I hit back with all my weak strength. How lucky the cryo-sleep didn't completely malfunction and preserved some of my muscles.
 
 ---
 
-Hords of Hungry "animals" attack, plenty of people are wiped out at this stage, until they finally get into the corridor. Those who kill gain experience and increase their level, making it harder to destroy them.
-Once the players manage to secure their cryo-quarters, they reach the corridor where the temperature is a little bit higher. In the corridor, they can see other cryo-quarters being attacked. Eventually, they'll help the other colonists, or will be attacked by other waves of monsters at this point, slowly gaining combat experience, or dying repetedly (which means, creating new avatars to replace those that die)
+Hords of Hungry "animals" attack, plenty of people are wiped out at this stage, until we finally make it out into the corridor. Monsters who kill gain experience and increase their level, making it harder to destroy them.
+Once the players manage to secure their cryo-quarters, they reach the corridor where the temperature is a little bit higher. From the corridor, they can see other cryo-quarters being attacked. Eventually, they'll help the other colonists, or will be attacked by other waves of monsters , slowly gaining combat experience, or dying repetedly (which means, creating new avatars to replace those that die).
 
-At this point people will have to explore purgatory (Or what's left of it) to find access to Paradisio and Inferno. At this moment, they'll understand they need food, water, protection from radiations, and that their body needs proper temperature.
+At this point people will have to explore purgatory (Or what's left of it) to find access to Paradisio and Inferno. There, they'll understand they need food, water, protection from radiations, and that their body needs proper temperature.
 
-Food > Need to grow crops in Paradisio (Now covered in trees, water and monsters). Animals also drop food (irradiated ?), seeds (to grow crops), rarely weapon components, blueprints, 
+Food > Need to grow crops in Paradisio (Now covered in trees, water and monsters). Animals also drop food (irradiated ?), seeds (to grow crops), more rarely weapon components, and crafting blueprints, 
